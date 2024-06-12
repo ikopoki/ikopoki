@@ -1,4 +1,4 @@
-![banner](https://github.com/ikopoki/ikopoki/blob/main/YmL64j1.gif)
+<p align="center">![banner](https://github.com/ikopoki/ikopoki/blob/main/YmL64j1.gif)</p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/ikopoki">ikopoki</a></h3>
 
