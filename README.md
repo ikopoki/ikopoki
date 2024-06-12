@@ -10,7 +10,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <img title="skills" alt="skills" src="https://skillicons.dev/icons?i=js,html,css,react,redux)](https://skillicons.dev" /> </p>
+<p align="center"> <img title="skills" alt="skills" src="https://skillicons.dev/icons?i=js,html,css,react,babel,bootstrap,figma,postman,redux,sass,ts,vite,vscode,webpack)](https://skillicons.dev" /> </p>
 
 ## Activity On GitHub
 
