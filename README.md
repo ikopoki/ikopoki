@@ -1,4 +1,4 @@
-## Introduction
+![banner](https://github.com/ikopoki/ikopoki/blob/main/YmL64j1.gif)
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/ikopoki">ikopoki</a></h3>
 
