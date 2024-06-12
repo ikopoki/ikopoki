@@ -6,7 +6,7 @@
 
 - 🔭 Working on pet project
 - 🌱 Learning RTKQuery, Vite and much more..
-- 📫 How to contact me: ![@ikopoki Telegram(https://t.me/ikopoki)]
+- 📫 How to contact me: <a href="https://t.me/ikopoki">@ikopoki (telegram)</a>
 
 ## Languages and Tools
 
