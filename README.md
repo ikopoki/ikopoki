@@ -10,7 +10,7 @@
 
 ## Languages and Tools
 
-<p align="left"> [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux)](https://skillicons.dev) </p>
+<p align="left"> <img title="skills" alt="skills" src="https://skillicons.dev/icons?i=js,html,css,react,redux)](https://skillicons.dev" /> </p>
 
 ## Activity On GitHub
 
