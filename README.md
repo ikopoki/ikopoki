@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/ikopoki/ikopoki/blob/main/YmL64j1.gif" alt="banner" /></p>
+<p align="center"> <img src="https://github.com/ikopoki/ikopoki/blob/main/tumblr_o1cy9a9U3N1tuhd2ao1_1280.gif" alt="banner" /></p>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/ikopoki">ikopoki</a></h3>
 
